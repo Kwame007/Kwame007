@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kwame007
+- 👋 Hi, I’m Clement
 - 👀 I’m interested in web development
 - 🌱 Junior Front-End Engineer
 - 💞️ I’m looking to collaborate on projects
