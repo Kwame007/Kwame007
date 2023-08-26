@@ -5,7 +5,7 @@ Frontend Engineer
 -----------------
 
 * 🌍  I'm based in Accra, GH
-* ✉️  You can contact me at [clementnyark0adjei007@gmail.com](mailto:clementnyark0adjei007@gmail.com)
+* ✉️  You can contact me at [clementnyarkoadjei007@gmail.com](mailto:clementnyark0adjei007@gmail.com)
 * 🚀  I'm currently working on [Unicorn-GH](http://unicorns-firebase.web.app/)
 * 🧠  I'm learning Everything JavaScript
 * 🤝  I'm open to collaborating on challenging projects
